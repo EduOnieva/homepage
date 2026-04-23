@@ -344,6 +344,16 @@
         "address": "Adresa",
         "expires": "Vyprší",
         "never": "Nikdy",
+        "user": "User",
+        "hostname": "Hostname",
+        "name": "Name",
+        "client_version": "Client Version",
+        "os": "OS",
+        "created": "Created",
+        "authorized": "Authorized",
+        "is_external": "Is External",
+        "update_available": "Update Available",
+        "tags": "Tags",
         "last_seen": "Naposledy viděno",
         "now": "Nyní",
         "years": "{{number}}r",
@@ -352,7 +362,9 @@
         "hours": "{{number}}h",
         "minutes": "{{number}}m",
         "seconds": "{{number}}s",
-        "ago": "Před {{value}}"
+        "ago": "Před {{value}}",
+        "true": "Yes",
+        "false": "No"
     },
     "technitium": {
         "totalQueries": "Dotazy",

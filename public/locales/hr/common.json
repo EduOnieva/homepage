@@ -67,9 +67,9 @@
         "empty_data": "Stanje podsustava nepoznato"
     },
     "unifi_drive": {
-        "healthy": "Healthy",
-        "degraded": "Degraded",
-        "no_data": "No storage data available"
+        "healthy": "Zdrav",
+        "degraded": "Degradirano",
+        "no_data": "Nema dostupnih podataka spremišta"
     },
     "docker": {
         "rx": "RX",
@@ -344,6 +344,16 @@
         "address": "Adresa",
         "expires": "Isteče",
         "never": "Nikada",
+        "user": "User",
+        "hostname": "Hostname",
+        "name": "Name",
+        "client_version": "Client Version",
+        "os": "OS",
+        "created": "Created",
+        "authorized": "Authorized",
+        "is_external": "Is External",
+        "update_available": "Update Available",
+        "tags": "Tags",
         "last_seen": "Zadnje viđeno",
         "now": "Sada",
         "years": "{{number}} god",
@@ -352,7 +362,9 @@
         "hours": "{{number}} h",
         "minutes": "{{number}} min",
         "seconds": "{{number}} s",
-        "ago": "Prije {{value}}"
+        "ago": "Prije {{value}}",
+        "true": "Yes",
+        "false": "No"
     },
     "technitium": {
         "totalQueries": "Upiti",
@@ -624,8 +636,8 @@
         "resources": "Resursi",
         "targets": "Ciljevi",
         "traffic": "Promet",
-        "in": "In",
-        "out": "Out"
+        "in": "Ulaz",
+        "out": "Izlaz"
     },
     "peanut": {
         "battery_charge": "Napunjenost baterije",

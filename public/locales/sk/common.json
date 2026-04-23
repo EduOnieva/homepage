@@ -344,6 +344,16 @@
         "address": "Adresa",
         "expires": "Vyprší",
         "never": "Nikdy",
+        "user": "User",
+        "hostname": "Hostname",
+        "name": "Name",
+        "client_version": "Client Version",
+        "os": "OS",
+        "created": "Created",
+        "authorized": "Authorized",
+        "is_external": "Is External",
+        "update_available": "Update Available",
+        "tags": "Tags",
         "last_seen": "Naposledy videné",
         "now": "Teraz",
         "years": "{{number}}r",
@@ -352,7 +362,9 @@
         "hours": "{{number}}h",
         "minutes": "{{number}}m",
         "seconds": "{{number}}s",
-        "ago": "Pred {{value}}"
+        "ago": "Pred {{value}}",
+        "true": "Yes",
+        "false": "No"
     },
     "technitium": {
         "totalQueries": "Požiadaviek",

@@ -67,9 +67,9 @@
         "empty_data": "Substelsel status onbekend"
     },
     "unifi_drive": {
-        "healthy": "Healthy",
-        "degraded": "Degraded",
-        "no_data": "No storage data available"
+        "healthy": "Gesond",
+        "degraded": "Gedegradeer",
+        "no_data": "Geen bergingsdata beskikbaar nie"
     },
     "docker": {
         "rx": "RX",
@@ -344,6 +344,16 @@
         "address": "Adres",
         "expires": "Verval",
         "never": "Nooit",
+        "user": "User",
+        "hostname": "Hostname",
+        "name": "Name",
+        "client_version": "Client Version",
+        "os": "OS",
+        "created": "Created",
+        "authorized": "Authorized",
+        "is_external": "Is External",
+        "update_available": "Update Available",
+        "tags": "Tags",
         "last_seen": "Laaste Gesien",
         "now": "Nou",
         "years": "{{number}}y",
@@ -352,7 +362,9 @@
         "hours": "{{number}}h",
         "minutes": "{{number}}m",
         "seconds": "{{number}}s",
-        "ago": "{{value}} Terug"
+        "ago": "{{value}} Terug",
+        "true": "Yes",
+        "false": "No"
     },
     "technitium": {
         "totalQueries": "Navraë",
